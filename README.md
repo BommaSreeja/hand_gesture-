@@ -4,6 +4,7 @@ This project implements a Virtual Mouse using Python, OpenCV, MediaPipe, and PyA
 It allows you to control the computer cursor with hand gestures captured via a webcam — no physical mouse needed! 
 <br>
 **Features**
+<br>
 Move cursor by tracking your index finger tip
 <br>
 Click action by bringing the thumb and index finger close together
